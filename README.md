@@ -1,5 +1,3 @@
-# README (4)
-
 # C 04
 
 This module in the 42 Piscine introduces functions focusing on character and number manipulation, string processing, and conversions between numeric representations. The exercises aim to develop understanding of basic C operations related to strings and integers, progressing from simple counting to more complex operations like base conversions.
