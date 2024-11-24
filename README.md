@@ -24,7 +24,6 @@ cc -Wall -Wextra -Werror {file}
 
 ---
 <details>
-
     <summary>Exercises:</summary>
 
 - [ex00:](https://github.com/vinislima/42sp_piscine_c04/blob/main/ex00/ft_strlen.c)
